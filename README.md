@@ -7,6 +7,7 @@ So v9 is fitting to TYPO3 v9 and as there is no v10, its working for TYPO3 v10 t
 
 ## How to use?
  1. copy the class file AbstractRepository.php in your extension's Repository folder
+    and adjust the namespace `Vendor\ExtensionSignature\...` to your owm one.
  2. in your own repository files extend the class(es) by AbstractRepository
     ```
     class MyClass extends AbstractRepository

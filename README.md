@@ -36,4 +36,4 @@ So v9 is fitting to TYPO3 v9 and as there is no v10, its working for TYPO3 v10 t
     }
     ```
  4. The debug messages in Frontend will show the query, the parameters and above
-    as header the method and line, as well as method and line in the ApstractRepository.
+    as header the method and line, as well as method and line in the AbstractRepository.
